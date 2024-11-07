@@ -1,0 +1,1 @@
+imiona = ["Anna", "Piotr", "Ewa"]
