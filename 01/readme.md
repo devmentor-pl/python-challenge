@@ -6,7 +6,7 @@
 
 Napisz skrypt, który przyjmie listę słów i przefiltruje ją, zwracając tylko te, które zawierają więcej niż 5 liter. 
 
-Użyj pętli for oraz instrukcji warunkowej `if`.
+Użyj pętli `for` oraz instrukcji warunkowej `if`.
 
 &nbsp;
 > :no_entry: *Jeśli potrzbujesz pomocy w nauce programowania to zapraszam na [bezpłatną i niezobowiązującą rozmowę](https://devmentor.pl/rozmowa)*
