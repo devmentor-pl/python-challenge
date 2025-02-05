@@ -4,7 +4,7 @@
 
 # `#05` Python: Challenge
 
-Zdefiniuj klasę `Uzytkownik` z atrybutami `imie` i `wiek`. Dodaj metodę przywitaj, która wypisze powitanie w stylu „Cześć, jestem [imie] i mam [wiek] lat.”
+Zdefiniuj klasę `Uzytkownik` z atrybutami `imie` i `wiek`. Dodaj metodę `przywitaj()`, która wypisze powitanie w stylu „Cześć, jestem [imie] i mam [wiek] lat.”
 
 
 
