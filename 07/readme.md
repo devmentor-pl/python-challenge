@@ -4,7 +4,7 @@
 
 # `#07` Python: Challenge
 
-Stwórz dodatkową klasę `Administrator`, która dziedziczy po `Uzytkownik`. Dodaj metodę `uprawnienia`, która zwraca „Administrator ma pełne uprawnienia.”. Napisz funkcję `przywitaj_uzytkownika`, która przyjmuje obiekt dowolnego typu użytkownika (`Uzytkownik`, `PremiumUzytkownik` lub `Administrator`) i wywołuje metodę `przywitaj`.
+Stwórz dodatkową klasę `Administrator`, która dziedziczy po `Uzytkownik`. Dodaj metodę `uprawnienia()`, która zwraca „Administrator ma pełne uprawnienia.”. Napisz funkcję `przywitaj_uzytkownika()`, która przyjmuje obiekt dowolnego typu użytkownika (`Uzytkownik`, `PremiumUzytkownik` lub `Administrator`) i wywołuje metodę `przywitaj()`.
 
 
 
