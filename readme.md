@@ -10,7 +10,7 @@ Każde zadanie zawiera krótki opis oraz informację, jakie umiejętności kursa
 
 Zadania są ułożone według rosnącego stopnia trudności, aby stopniowo wprowadzać kursanta w coraz bardziej zaawansowane zagadnienia.
 
-**Jeśli potrzebujesz bardziej rozbudowanego wyzwania to [zgłoś prośbę przez formularz]().** 
+**Jeśli potrzebujesz bardziej rozbudowanego wyzwania to [zgłoś prośbę przez formularz](https://devmentor.pl/kontakt).** 
 
 &nbsp;
 
