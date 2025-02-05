@@ -4,7 +4,7 @@
 
 # `#04` Python: Challenge
 
-Napisz skrypt, który zamienia listę polskich zwrotów (np. `["cześć", "dzień dobry", "do widzenia"]`) na ich angielskie odpowiedniki (np. `["hello", "good morning", "goodbye"]`), korzystając ze słownika tłumaczeń. Jeśli zwrot nie ma tłumaczenia, pozostaje bez zmian. Wykorzystaj `list comprehension`.
+Napisz skrypt, który zamienia listę polskich zwrotów (np. `["cześć", "dzień dobry", "do widzenia"]`) na ich angielskie odpowiedniki (np. `["hello", "good morning", "goodbye"]`), korzystając ze słownika tłumaczeń. Jeśli zwrot nie ma tłumaczenia, pozostaje bez zmian. Wykorzystaj *list comprehension*.
 
 
 
