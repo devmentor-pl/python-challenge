@@ -4,7 +4,7 @@
 
 # `#06` Python: Challenge
 
-Stwórz klasę `PremiumUzytkownik`, która dziedziczy po klasie `Uzytkownik`. Dodaj atrybut `poziom_subskrypcji` oraz metodę `pokaz_status`, która wypisuje poziom subskrypcji. Nadpisz metodę `przywitaj`, aby uwzględniała poziom subskrypcji w powitaniu.
+Stwórz klasę `PremiumUzytkownik`, która dziedziczy po klasie `Uzytkownik`. Dodaj atrybut `poziom_subskrypcji` oraz metodę `pokaz_status()`, która wypisuje poziom subskrypcji. Nadpisz metodę `przywitaj()`, aby uwzględniała poziom subskrypcji w powitaniu.
 
 
 
