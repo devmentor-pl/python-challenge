@@ -4,7 +4,7 @@
 
 # `#08` Python: Challenge
 
-Mając listę obiektów klasy `Uzytkownik`, napisz funkcję `znajdz_uzytkownika`, która przyjmuje imię i zwraca obiekt użytkownika o podanym imieniu. Jeśli użytkownik nie istnieje, funkcja powinna zwracać `None`.
+Mając listę obiektów klasy `Uzytkownik`, napisz funkcję `znajdz_uzytkownika()`, która przyjmuje imię i zwraca obiekt użytkownika o podanym imieniu. Jeśli użytkownik nie istnieje, funkcja powinna zwracać `None`.
 
 
 &nbsp;
